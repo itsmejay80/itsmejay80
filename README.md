@@ -44,7 +44,7 @@
     </td>
     <td width="50%" valign="top">
       <b>&#9654;&nbsp;&nbsp;learning</b><br/>
-      <sub>react server components, rust for systems, and distributed eventing at depth.</sub>
+      <sub>LLMs (agents, tool-use, evals) and rust for systems.</sub>
     </td>
   </tr>
   <tr>
