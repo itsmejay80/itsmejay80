@@ -96,6 +96,28 @@
   </a>
 </p>
 
+<!--  ─────────────────────────────  OPEN SOURCE  ───────────────────────────── -->
+
+## &nbsp;<kbd>◎</kbd>&nbsp;&nbsp;open source
+
+merged pull requests to projects i use and admire.
+
+<table>
+  <tr>
+    <td width="22%"><b>jupyterlab</b><br/><sub>★ 15.1k</sub></td>
+    <td>
+      <a href="https://github.com/jupyterlab/jupyterlab/pull/18754">#18754</a> — toggle command for output scrolling with checked-state support<br/>
+      <a href="https://github.com/jupyterlab/jupyterlab/pull/18747">#18747</a> — fixed contextual help keyboard shortcut reliability
+    </td>
+  </tr>
+  <tr>
+    <td><b>strapi</b><br/><sub>★ 72k</sub></td>
+    <td>
+      <a href="https://github.com/strapi/strapi/pull/25996">#25996</a> — render id column without number grouping in content manager
+    </td>
+  </tr>
+</table>
+
 <!--  ─────────────────────────────  SIGNALS  ───────────────────────────── -->
 
 ## &nbsp;<kbd>◎</kbd>&nbsp;&nbsp;signals
