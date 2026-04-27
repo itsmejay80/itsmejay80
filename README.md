@@ -116,6 +116,18 @@ merged pull requests to projects i use and admire.
       <a href="https://github.com/strapi/strapi/pull/25996">#25996</a> — render id column without number grouping in content manager
     </td>
   </tr>
+  <tr>
+    <td><b>saleor</b><br/><sub>★ 22.9k</sub></td>
+    <td>
+      <a href="https://github.com/saleor/saleor/pull/19126">#19126</a> — add checkoutDelete mutation guarded by MANAGE_CHECKOUTS with full test coverage
+    </td>
+  </tr>
+  <tr>
+    <td><b>caveman</b><br/><sub>★ 47.6k</sub></td>
+    <td>
+      <a href="https://github.com/JuliusBrussee/caveman/pull/106">#106</a> — consolidate cursor/windsurf/cline/copilot install details into one block
+    </td>
+  </tr>
 </table>
 
 <!--  ─────────────────────────────  SIGNALS  ───────────────────────────── -->
